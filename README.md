@@ -21,4 +21,6 @@ This project is inspired by Redis(Kachao) and is built to practice **low-level p
   - **DEL** → delete a key
   - **EXISTS** → check if a key exists
 
+Learned **c** and Implemented. thought of getting hands dirty, used redis alike database.
+
 ## 📂 Project Structure
